@@ -10,24 +10,32 @@ def main():
 	
 	verdade = True	
 	while verdade:
-		
-		op = int(input(menu))
+		try:	
+			op = int(input(menu))
 
-		if op == 1:
-			print("Vamos cadastrar um novo aluno ")
-			student.append(cadastrar_novo_aluno())
-		elif op == 2:
-			print("Lista dos carinhas cadastrados ate agora ")
-			listar_students(student)	
-		elif op == 3:
-			print("limpando Tela")
-			limpa_tela()
-		elif op == 0:
-			print("Voce saiu do software - Obrigado pela cooperacao ")
-			
-			break
-		else:
-			print ('op invalida Tente novamente ou 0 para Sair')		
+			if op == 1:
+				print("Vamos cadastrar um novo aluno ")
+				student.append(cadastrar_novo_aluno())
+				print("\n#######################################\n")
+				
+			elif op == 2:
+				print("Lista dos carinhas cadastrados ate agora ")
+				print("\n#######################################\n")
+				listar_students(student)	
+				print("\n#######################################\n")
+				
+			elif op == 3:
+				print("limpando Tela")
+				limpa_tela()
+			elif op == 0:
+				print("Voce saiu do software - Obrigado pela cooperacao ")
+				print("\n#######################################\n")
+				break
+			else:
+				print ('op invalida Tente novamente ou 0 para Sair')		
+	    
+		except ValueError as e:
+			print("Ouve um problema Tente novamente(vc inseriu textos ao inves de numeros:>",e)
 
 def limpa_tela():
 	
@@ -46,7 +54,7 @@ def cadastrar_novo_aluno():
 def listar_students(student):
 	
 	for d in student:
-		print("Nome %s \nIdade %s \nSexo %s"%(d["Nome"],d["Idade"],d["Sexo"]))
+		print("Nome-> %s \nIdade-> %s \nSexo-> %s"%(d["Nome"],d["Idade"],d["Sexo"]))
 		
 	fim =  1 * "##############FIM DO PROCESSAMENTO DE DADOS####"
 	print(fim)
