@@ -1,0 +1,3 @@
+{'Id': 10, 'Data': 12, 'Valor': 2000.012, 'Montadora': 'toyota', 'Nome': 'carro'}
+{'Id': 1, 'Data': 2012, 'Valor': 2000000.0, 'Montadora': 'Java', 'Nome': 'carroMArlyson'}
+{'Id': 2, 'Data': 2431, 'Montadora': 'BRLTDA', 'Valor': 20001.0, 'Nome': 'uyCitroen'}
