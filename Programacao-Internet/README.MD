@@ -14,7 +14,7 @@
 
 > https://github.com/Guilherme2020/portifolio
 
-##- Logo abaixo ao longo do aprendizado acadêmico, criei  repositorios contendo códigos em tecnologias como Java/Android, javascript(vuejs,reac,angularjs),PHP/Laravel, python/django,  MaterializeCss. Projetos esses criados com o alvo no aprendizado das tecnologias e fins acadêmicos da matéria de Programação Corporativa.**
+## Logo abaixo ao longo do aprendizado acadêmico, criei  repositorios contendo códigos em tecnologias como Java/Android, javascript(vuejs,reac,angularjs),PHP/Laravel, python/django,  MaterializeCss. Projetos esses criados com o alvo no aprendizado das tecnologias e fins acadêmicos da matéria de Programação Corporativa.**
 
 **- Progamação Corporativa- Projeto Eventos com o foco na camada de Modelo e a fixação de conceitos da Orientação a Objetos, design OO, uso de refatorações e Desing Patterns .**         
 
@@ -49,7 +49,7 @@
 >    https://github.com/Guilherme2020/CameraApp
 
 
-##- Aplicações em javascript com  o uso de algum framework(Angular, React,Vue):
+## Aplicações em javascript com  o uso de algum framework(Angular, React,Vue):
 
 
 
