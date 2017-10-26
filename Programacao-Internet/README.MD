@@ -97,7 +97,7 @@
 
 **- No decorrer do ano de 2017 tive a oportunidade de escrever um artigo no medium.com/ da comunidade brasileira TrainingCenter. O artigo na ocasião foi sobre um start  no  VueJs.**
 
->    medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c
+> https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c
 
 
 **- Minhas expectativas quanto a displina é o aprendizado da construção de aplicações web   tanto no lado servidor como no lado cliente, principalmente com foco no aprendizado de construção de API seguindo o padrão REST/RESTFULL.Meu  desejo é contribuir e aprender durante esse periodo letivo.
