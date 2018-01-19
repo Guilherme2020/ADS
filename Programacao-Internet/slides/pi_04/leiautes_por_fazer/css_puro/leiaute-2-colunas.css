@@ -1,0 +1,28 @@
+.container{
+    width: 700px;
+    margin: auto;
+    border:1px solid gray;
+}
+
+header, footer{
+    background-color:lightgray; 
+}
+header{
+    border-bottom:1px dotted ;
+}
+header, footer,nav,main{
+    padding: 5px;
+}
+nav{
+    width: 150px;
+    float:left;
+}
+main{
+    width:400px;
+    float:left;
+    border-left:1px dotted gray; 
+}
+footer{
+    clear: both;
+    border-top:1px dotted gray|;
+}

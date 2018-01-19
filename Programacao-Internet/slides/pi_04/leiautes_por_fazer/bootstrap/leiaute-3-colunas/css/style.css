@@ -1,0 +1,35 @@
+main,header,footer,aside,nav{
+    padding: 5px;
+}
+.main{
+    background-color: #fff;
+    border-right: 1px dotted gray;
+    border-left:1px dotted gray;
+}
+/* header,footer{
+    text-align: center;
+} */
+.container {
+    border: 1px solid black;
+    margin-top: 10px;
+} 
+header{
+    background-color:lightgray;
+    border-bottom:1px dotted gray; 
+}  
+header, footer {
+    background-color: #ddd;
+}
+header, footer, main, aside{
+    padding: 5px;
+}
+main {
+    border-right: 1px dotted gray;
+
+}
+header {
+    border-bottom: 1px dotted gray;
+}
+footer, aside {
+    border-top: 1px dotted gray;
+}

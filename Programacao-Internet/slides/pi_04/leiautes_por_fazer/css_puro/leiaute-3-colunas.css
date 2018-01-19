@@ -1,0 +1,29 @@
+body { font: 11px arial; }
+.container{
+    width: 800px;
+    margin: auto;
+    color:#333333;
+    border:1px solid gray;
+}
+header, nav, main,
+footer { padding: 10px; }
+header {
+background-color: #dddddd;
+border-bottom: 1px solid gray;
+}
+nav{
+float: left; width: 130px;
+background-color: #dddddd;
+}
+main {
+float: left; width: 470px;
+background-color: white;
+}
+aside {
+float: right; width: 150px;
+background-color: #dddddd;
+}
+footer {
+clear: both;
+background-color: #dddddd;
+border-top: 1px solid gray;}
